@@ -11,4 +11,4 @@ Located in the .Concepts folder is the work on the basics of Python and where al
 6/25/2023 : 
 - Added .Concepts folder and Hello World Basics.py
 - Added If Statements and Variables/Strings
--Added Alpha Folder
+- Added Alpha Folder
