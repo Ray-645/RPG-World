@@ -4,6 +4,10 @@ Welcome to the RPG World repository where the goal is to eventually make a text 
 
 Context: *I'm new to Python and I'm learning bit by bit. This may not be the most complex RPG Game but I want it to be something I'm proud of.*
 
+## Current Goal
+- Working Battle Demo and other Concepts [WIP]
+- I'm currently deciding how the story goes and working on a battle demo
+
 ## Changelog
 
 7/3/2023 :
