@@ -2,9 +2,7 @@
 
 Welcome to the RPG World repository where the goal is to eventually make a text base RPG Game bit by bit.
 
-Located in the .Concepts folder is where all the basic of Python can be found. The Alpha folder contains a in-development version of RPG World.
-
-
+Context: *I'm new to Python and I'm learning bit by bit. This may not be the most complex RPG Game but I want it to be something I'm proud of.*
 
 ## Changelog
 
