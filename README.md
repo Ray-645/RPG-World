@@ -9,7 +9,7 @@ Located in the .Concepts folder is where all the basic of Python can be found. T
 ## Changelog
 
 7/3/2023 :
--  Deleted Concepts Folder and relocated it to the Python Basics/Concepts Repo.
+-  Deleted Concepts Folder and relocated it to the Python Basics/Concepts Repo. (https://github.com/Ray-645/Python-Basics-Concepts)
 -  More updates to RPG World is coming soon.
 
 6/25/2023 : 
