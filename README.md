@@ -5,10 +5,14 @@ Welcome to the RPG World repository where the goal is to eventually make a text 
 Context: *I'm new to Python and I'm learning bit by bit. This may not be the most complex RPG Game but I want it to be something I'm proud of.*
 
 ## Current Goal
-- RPG World will be a multi-game project (4 in 1).
 
--  Game 1 Murder Mystery: I'm currently deciding how the story goes w/ little combat [WIP]
+- Level_Test.py [In Progress] - Started a basic story.
+- Battle_Test.py [In Progress] -  I made some progress but Im putting a pause in order to focus on Level Test.
+- Random_Encounter.py [Backlog]
+- [Full_Game].py [Backlog]
+
 ## Changelog
+
 7/6/2023 :
 -  Deleted 'Alpha' folder and added 'Beta'
 -  RPG World ver.0.01b is released
