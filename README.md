@@ -6,10 +6,10 @@ Context: *I'm new to Python and I'm learning bit by bit. This may not be the mos
 
 ## Current Goal
 
-- Level_Test.py [In Progress] - Started a basic story.
-- Battle_Test.py [In Progress] -  I made some progress but Im putting a pause in order to focus on Level Test.
-- Random_Encounter.py [Backlog]
-- [Full_Game].py [Backlog]
+- Level_Test.py **[In Progress]** - Started a basic story.
+- Battle_Test.py **[In Progress]** -  I made some progress but Im putting a pause in order to focus on Level Test.
+- Random_Encounter.py **[Backlog]**
+- [Full_Game].py **[Backlog]**
 
 ## Changelog
 
